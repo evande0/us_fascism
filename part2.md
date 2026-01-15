@@ -2,9 +2,6 @@
 
 Normalize violence by domestic paramilitary. Start by dehumanizing minority population, then by attacking their defenders.
 
-## See also 
-- [Part 1: Consolidate Power](/part1.md): Dismantle or co-opt institutions of accountability and information
-- [Part 3: Deploy Military](/part3.md): Consolidate control over the military and subvert international law
 
 | **U.S. Action / Violation**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Germany 1918–1945 Analog**                                                                                                                                                                                                                                                                                                                                                                                     | **Comparison / Escalation Signals**                                                                                                                                                                                                                                                                                                                                  | **Project 2025 Roadmap**                                                                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,20 +18,42 @@ Normalize violence by domestic paramilitary. Start by dehumanizing minority popu
 ### PART 2 SOURCES
 
 1) AP News, Senate report: ICE detainees denied medical care; deaths up in custody — https://apnews.com/article/e218486607c04040c94561699e1d0054
+
 2) US Holocaust Memorial Museum Encyclopedia — Nazi camps overview — https://encyclopedia.ushmm.org/content/en/article/nazi-camps
+
 3) The Guardian, Gunfire, shootings during Trump ICE enforcement make 2025 one of deadliest years — https://www.theguardian.com/us-news/2026/jan/07/trump-immigration-ice-shootings
+
 4) Wikipedia, Project 2025 — https://en.wikipedia.org/wiki/Project_2025
-5) Amnesty International, Human rights abuses in Alligator Alcatraz and Florida ICE detention — https://www.amnesty.org/en/latest/news/2025/12/estados-unidos-nuevas-investigaciones-revelan-violaciones-de-derechos-humanos-en-los-centros-de-detencion-de-alligator-alcatraz-y-krome-en-florida/
+5) Amnesty International, Human rights abuses in Alligator Alcatraz and Florida ICE detention — 
+https://www.amnesty.org/en/latest/news/2025/12/estados-unidos-nuevas-investigaciones-revelan-violaciones-de-derechos-humanos-en-los-centros-de-detencion-de-alligator-alcatraz-y-krome-en-florida/
+
 6) The Holocaust Explained, Concentration camps overview — https://www.theholocaustexplained.org/the-camps/types-of-camps/concentration-camps/
+
 7) Human Rights Watch, “You feel like your life is over”: Abusive practices at Florida immigration facilities — https://www.hrw.org/report/2025/07/21/you-feel-like-your-life-is-over/abusive-practices-at-three-florida-immigration
+
 8) Human Rights Watch, U.S. ICE abuses in Los Angeles set stage for other cities — https://www.hrw.org/news/2025/11/04/us-ice-abuses-in-los-angeles-set-stage-for-other-cities
+
 9) The Guardian, ICE hidden detention sites investigation — https://www.theguardian.com/us-news/2025/oct/30/ice-hidden-detention-sites
+
 10) US Holocaust Memorial Museum Encyclopedia, Early Gestapo and protective custody — https://encyclopedia.ushmm.org/content/en/article/nazi-camps
+
 11) AP News, Worms, contaminated food reported in ICE facility — https://apnews.com/article/cc2fb9e34e760a50e97f13fe59cbf075
+
 12) Wikipedia, Theresienstadt Ghetto — https://en.wikipedia.org/wiki/Theresienstadt_Ghetto
+
 13) US Holocaust Memorial Museum Encyclopedia, What was the Gestapo? — https://encyclopedia.ushmm.org/content/en/article/what-was-the-gestapo
+
 14) Heritage Foundation analysis, America Under Assault — https://www.heritage.org/immigration/commentary/america-under-assault-how-cutting-legal-immigration-threatens-security-and
+
 15) The Guardian, Trump-era immigration enforcement deadliest in decades — https://www.theguardian.com/us-news/2026/jan/07/trump-immigration-ice-shootings
+
 16) Cato Institute, Project 2025 immigration plan undermines rule of law — https://www.cato.org/blog/project-2025-immigration-plan-undermines-rule-law
+
 17) Washington Post, ICE warehouse detention expansion — https://www.washingtonpost.com/business/2025/12/24/ice-immigrants-detention-warehouses-deportation-trump/
+
 18) Project 2025 — Immigration Policy https://static.project2025.org/mandate/2025_MandateForLeadership_CHAPTER-1.pdf
+
+
+## See also 
+- [Part 1: Consolidate Power](/part1.md): Dismantle or co-opt institutions of accountability and information
+- [Part 3: Military Expansion](/part3.md): Consolidate control over the military and subvert international law

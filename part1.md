@@ -2,10 +2,6 @@
 
 Dismantle or co-opt institutions of accountability, information, the judiciary, and enforcement 
 
-## See Also
-- [Part 2: Normalize Violence](/part2.md): Normalize violence by domestic paramilitary
-- [Part 3: Deploy Military](/part3.md): Consolidate control over the military and subvert international law
-
 | **U.S. Action / Violation**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **Germany 1918–1945 Analog**                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Comparison / Escalation Signals**                                                                                                                                                                                                                                                                          | **Project 2025 Roadmap**                                                                                                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Pardons for January 6 insurrectionists (Jan 20, 2025).** Trump issued pardons and commutations for individuals convicted of seditious conspiracy, assaulting law enforcement, and obstructing Congress during the January 6 attack, and ordered DOJ to drop remaining prosecutions. These actions eliminated criminal accountability for political violence directed at the constitutional transfer of power. [[1]](https://www.theguardian.com/us-news/2025/jan/20/trump-executive-orders-jan-6-pardons) [[2]](https://www.npr.org/2025/01/20/trump-jan-6-pardons-legal-implications) | **Legal immunity for Nazi political violence (1933–1934).** After taking power, the Nazi regime shielded SA and party loyalists from prosecution for violence against political opponents, including retroactive legal justifications for murder. Courts were subordinated to regime loyalty rather than rule of law. [[3]](https://encyclopedia.ushmm.org/content/en/article/the-nazi-police-state) [[4]](https://www.britannica.com/event/Night-of-the-Long-Knives) | In both cases, violence in service of the ruling movement is reframed as legitimate. U.S. escalation signals include calls from Trump allies to prosecute judges and prosecutors involved in January 6 cases. [[5]](https://apnews.com/article/trump-jan-6-prosecutors-retaliation-2025)                                     | **Project 2025 DOJ chapter** calls for ending “politicized prosecutions” and reorienting DOJ to defend the executive against “lawfare,” explicitly justifying non-enforcement against allies. [[6]](https://static.project2025.org/mandate/2025_MandateForLeadership_CHAPTER-17.pdf)          |
@@ -23,64 +19,117 @@ Dismantle or co-opt institutions of accountability, information, the judiciary, 
 ### PART 1 SOURCES
 
 1) The Guardian — Trump pardons Jan 6 defendants - https://www.theguardian.com/us-news/2025/jan/20/trump-executive-orders-jan-6-pardons
+
 2) NPR — Legal implications of Trump’s Jan 6 pardons https://www.npr.org/2025/01/20/trump-jan-6-pardons-legal-implications
+
 3) USHMM — The Nazi Police State https://encyclopedia.ushmm.org/content/en/article/the-nazi-police-state
+
 4) Encyclopaedia Britannica — Night of the Long Knives https://www.britannica.com/event/Night-of-the-Long-Knives
+
 5) AP News — Trump allies call for retaliation against prosecutors https://apnews.com/article/trump-jan-6-prosecutors-retaliation-2025
+
 6) Project 2025 — DOJ Chapter https://static.project2025.org/mandate/2025_MandateForLeadership_CHAPTER-17.pdf
+
 7) Brennan Center — Trump’s border emergency explained https://www.brennancenter.org/our-work/analysis-opinion/trumps-border-emergency-explained
+
 8) New York Times — Trump declares border emergency https://www.nytimes.com/2025/01/21/us/politics/trump-border-emergency.html
+
 9) USHMM — Reichstag Fire Decree https://encyclopedia.ushmm.org/content/en/article/reichstag-fire-decree
+
 10) Reuters — Trump allies label migrants “invaders” https://www.reuters.com/world/us/trump-allies-call-migrants-invaders-2025-02-02/
+
 11) Project 2025 — DHS Chapter https://static.project2025.org/mandate/2025_MandateForLeadership_CHAPTER-5.pdf
+
 12) NPR — Trump order on birthright citizenship https://www.npr.org/2025/01/20/trump-birthright-citizenship-order
+
 13) Reuters — Judge blocks birthright citizenship order https://www.reuters.com/world/us/us-judge-blocks-trump-birthright-citizenship-order-2025-01-23/
+
 14) USHMM — Nuremberg Laws https://encyclopedia.ushmm.org/content/en/article/nuremberg-laws
-15) NBC News — GOP backs ending birthright citizenship https://www.nbcnews.com/politics/congress/gop-lawmakers-back-ending-birthright-citizenship-rcna188640
+
+15) NBC News — GOP backs ending birthright citizenship https://www.nbcnews.com/politics/congress/gop-lawmakers-back-ending-birthright-citizenshiprcna188640
+
 16) Project 2025 — Immigration Policy https://static.project2025.org/mandate/2025_MandateForLeadership_CHAPTER-1.pdf
+
 17) White House — EO ending DEI https://www.whitehouse.gov/presidential-actions/2025/01/executive-order-ending-dei/
+
 18) NAACP LDF — Impact of DEI rollback https://www.naacpldf.org/press-release/dei-executive-order-impact/
+
 19) USHMM — Civil Service Law https://encyclopedia.ushmm.org/content/en/article/law-for-the-restoration-of-the-professional-civil-service
+
 20) Politico — Republicans expand DEI bans https://www.politico.com/news/2025/02/12/republicans-expand-dei-bans-00140567
+
 21) Project 2025 — Personnel Chapter https://static.project2025.org/mandate/2025_MandateForLeadership_CHAPTER-2.pdf
+
 22) New York Times — Trump pressures universities https://www.nytimes.com/2025/02/01/us/politics/trump-universities-student-activism.html
+
 23) AAUP — Threats to academic freedom https://www.aaup.org/news/trump-actions-threaten-academic-freedom
+
 24) USHMM — Education in the Third Reich https://encyclopedia.ushmm.org/content/en/article/education-in-the-third-reich
+
 25) The Advocate — GOP calls to ban gender studies https://www.advocate.com/politics/gop-ban-gender-studies
+
 26)Project 2025 — Education Chapter https://static.project2025.org/mandate/2025_MandateForLeadership_CHAPTER-11.pdf
+
 27) Columbia Journalism Review — Trump media bias portal https://www.cjr.org/the_media_today/trump-media-bias-portal.php
+
 28) Committee to Protect Journalists — US press freedom under threat https://cpj.org/2025/03/us-press-freedom-under-threat/
+
 29) USHMM — Censorship and Propaganda https://encyclopedia.ushmm.org/content/en/article/censorship-and-propaganda
+
 30) Rolling Stone — Trump threats to jail journalists https://www.rollingstone.com/politics/politics-news/trump-jail-journalists-threats-2025-1234960023/
+
 31) Project 2025 — Communications Chapter https://static.project2025.org/mandate/2025_MandateForLeadership_CHAPTER-18.pdf
+
 32) NPR — Trump defunds NPR and PBS https://www.npr.org/2025/05/14/trump-defunds-npr-pbs
+
 33) Columbia Journalism Review — Defunding public media https://www.cjr.org/analysis/defunding-public-media-authoritarian-playbook.php
+
 34) Encyclopaedia Britannica — Censorship in Nazi Germany https://www.britannica.com/topic/censorship/Nazi-Germany
+
 35) Washington Post — Trump proposes defunding NGOs https://www.washingtonpost.com/politics/2025/05/20/trump-defund-ngos/
+
 36) Project 2025 — Budget Strategy https://static.project2025.org/mandate/2025_MandateForLeadership_CHAPTER-1.pdf
+
 37) CNN — Trump administration targets law firms representing critics and migrants
 https://www.cnn.com/2025/08/12/politics/trump-admin-targets-law-firms/index.html
+
 38) US Holocaust Memorial Museum — Special Courts (Sondergerichte) in Nazi Germany
 https://encyclopedia.ushmm.org/content/en/article/special-courts
+
 39) New York Times — Legal intimidation of lawyers who represent critics
 https://www.nytimes.com/2025/09/10/us/politics/legal-intimidation-critics.html
+
 40) Project 2025 — DOJ Chapter (legal enforcement/ethics)
 https://static.project2025.org/mandate/2025_MandateForLeadership_CHAPTER-17.pdf
+
 41) RNZ — Corporate interests commit millions to Trump’s inauguration
 https://www.rnz.co.nz/news/world/537678/corporate-interests-commit-millions-to-celebrate-trump-s-inauguration
+
 42) CBS News — Trump ballroom donors and White House influence
 https://www.cbsnews.com/news/trump-ballroom-donors-white-house-stand-to-gain/
+
 43) USHMM — Industry and the Nazi state (corporate support of Nazis)
 https://encyclopedia.ushmm.org/content/en/article/industry-and-the-nazi-state
+
 44) Washington Post — Corporate lobbying and policy influence under Trump
 https://www.washingtonpost.com/politics/2025/06/15/corporate-lobbying-policy-shifts/
+
 45) Project 2025 — Economic/Governance Chapter (industry alignment)
 https://static.project2025.org/mandate/2025_MandateForLeadership_CHAPTER-3.pdf
+
 46) BBC — Qatar offers new Air Force One despite cost concerns
 https://www.bbc.com/news/articles/cwy5lp4v594o
+
 47) Encyclopaedia Britannica — Dawes Plan and Weimar foreign finance
 https://www.britannica.com/topic/Dawes-Plan
+
 48) Reuters — Analysis of Qatar’s offer of Air Force One to U.S.
 https://www.reuters.com/world/us/qatar-us-air-force-one-offer-analysis-2025-07-14/
+
 49) Project 2025 — Foreign Policy Chapter
 https://static.project2025.org/mandate/2025_MandateForLeadership_CHAPTER-7.pdf
+
+
+## See Also
+- [Part 2: Normalize Violence](/part2.md): Normalize violence by domestic paramilitary
+- [Part 3: Military Expansion](/part3.md): Consolidate control over the military and subvert international law

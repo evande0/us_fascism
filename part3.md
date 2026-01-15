@@ -2,10 +2,6 @@
 
 Consolidate control over the military and push the boundaries of international law
 
-## See Also
-- [Part 1: Consolidate Power](/part1.md): Dismantle or co-opt institutions of accountability and information
-- [Part 2: Normalize Violence](/part2.md): Normalize violence by domestic paramilitary
-
 
 | **U.S. Action / Violation**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Germany 1918–1945 Analog**                                                                                                                                                                                                                                                                                                                                                                                    | **Comparison / Escalation Signals**                                                                                                                                                                                                                                                                                                                                              | **Project 2025 Roadmap**                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,77 +16,82 @@ Consolidate control over the military and push the boundaries of international l
 
 ### PART 3 SOURCES
 
-Brennan Center — The President’s Power to Call Out the National Guard Is Not a Blank Check
-https://www.brennancenter.org/our-work/analysis-opinion/presidents-power-call-out-national-guard-not-blank-check
+1) Brennan Center — The President’s Power to Call Out the National Guard Is Not a Blank Check https://www.brennancenter.org/our-work/analysis-opinion/presidents-power-call-out-national-guard-not-blank-check
 
-OPB — Dueling narratives on Portland protests head to court
+2) OPB — Dueling narratives on Portland protests head to court
 https://www.opb.org/article/2025/10/03/portland-protests-court-national-guard-case/
 
-Reuters — Trump allies call migrants “invaders”
+3) Reuters — Trump allies call migrants “invaders”
 https://www.reuters.com/world/us/trump-allies-call-migrants-invaders-2025-02-02/
 
-Project 2025 — DHS & Immigration Chapter
+4) Project 2025 — DHS & Immigration Chapter
 https://static.project2025.org/mandate/2025_MandateForLeadership_CHAPTER-5.pdf
 
-Reuters — Hegseth removes head of Pentagon intelligence agency and other senior officers
+5) Reuters — Hegseth removes head of Pentagon intelligence agency and other senior officers
 https://www.reuters.com/world/us/latest-purge-hegseth-removes-head-pentagon-intelligence-agency-other-senior-2025-08-22/
 
-Spokesman-Review — US admiral leading US troops in Latin America steps down
+6) Spokesman-Review — US admiral leading US troops in Latin America steps down
 https://www.spokesman.com/stories/2025/dec/12/us-admiral-leading-us-troops-in-latin-america-step/
 
-New York Times — Debates over protections for military dissenting views
+7) New York Times — Debates over protections for military dissenting views
 https://www.nytimes.com/2025/10/05/debates-over-military-dissent-protections.html
 
-Project 2025 — Personnel/Defense Chapter
+8) Project 2025 — Personnel/Defense Chapter
 https://static.project2025.org/mandate/2025_MandateForLeadership_CHAPTER-2.pdf
 
-PBS NewsHour — At gathering of military leaders, Trump hints at deployment
+9) PBS NewsHour — At gathering of military leaders, Trump hints at deployment
 https://www.pbs.org/newshour/show/at-gathering-of-military-leaders-trump-hints-at-deployment-in-u-s-cities
 
-Reuters — Senator sues Pentagon chief over demotion threats
+10) Reuters — Senator sues Pentagon chief over demotion threats
 https://www.reuters.com/legal/government/us-senator-mark-kelly-sues-pentagon-chief-hegseth-over-demotion-threats-2026-01-12/
 
-Politico — Debate over military dissent protections
+11) Politico — Debate over military dissent protections
 https://www.politico.com/news/2025/10/05/debates-over-military-dissent-protections-00131056
 
-Human Rights Watch — U.S.: Maritime strikes amount to extrajudicial killings
+12) Human Rights Watch — U.S.: Maritime strikes amount to extrajudicial killings
 https://www.hrw.org/news/2025/09/18/us-maritime-strikes-amount-extrajudicial-killings
 
-Al Jazeera — UN rights chief: U.S. strikes on suspected boats unacceptable
+13) Al Jazeera — UN rights chief: U.S. strikes on suspected boats unacceptable
 https://www.aljazeera.com/news/2025/10/31/un-human-rights-chief-says-us-strikes-on-alleged-drug-boats-unacceptable
 
-Reuters — Analysis: Legal implications of high seas strikes
+14) Reuters — Analysis: Legal implications of high seas strikes
 https://www.reuters.com/world/us/analysis-legal-implications-us-high-seas-strikes-2025-09-20/
 
-Project 2025 — Foreign Policy/National Security Chapter
+15) Project 2025 — Foreign Policy/National Security Chapter
 https://static.project2025.org/mandate/2025_MandateForLeadership_CHAPTER-7.pdf
 
-The Guardian — Maduro international law memo
+16) The Guardian — Maduro international law memo
 https://www.theguardian.com/us-news/2026/jan/14/maduro-international-law-memo
 
-GlobalSecurity.org — UN experts condemn US aggression against Venezuela
-https://www.globalsecurity.org/military/library/news/2026/01/mil-260107-ohchr01.htm
+17) OHCHR.org — UN experts condemn US aggression against Venezuela
+https://www.ohchr.org/en/press-releases/2026/01/un-experts-condemn-us-aggression-against-venezuela
 
-TIME — Senate backs war powers measure to block Trump in Venezuela
+18) TIME — Senate backs war powers measure to block Trump in Venezuela
 https://time.com/7344716/war-powers-act-senate-trump-venezuela/
 
-Reuters — US Senate vote reining in Trump’s war powers
+20) Reuters — US Senate vote reining in Trump’s war powers
 https://www.reuters.com/world/americas/us-senate-vote-reining-trump-venezuela-2026-01-08/
 
-Heritage Foundation — War Powers: Constitutional history & overview
+21) Heritage Foundation — War Powers: Constitutional history & overview
 https://www.heritage.org/war-powers/report/war-powers-constitutional-history-and-overview
 
-FIDH — Venezuela: U.S. attack seriously violates international law
+22) FIDH — Venezuela: U.S. attack seriously violates international law
 https://www.fidh.org/en/region/americas/venezuela/venezuela-u-s-attack-seriously-violates-international-law
 
-TIME — What’s happening with the U.S. and Venezuela
+23) TIME — What’s happening with the U.S. and Venezuela
 https://time.com/7344628/us-venezuela-trump-maduro-oil-drugs-war-explainer-questions-answered/
 
-White House video — Secretary Noem: “If you lay a finger on one of our officers…”
+24) White House video — Secretary Noem: “If you lay a finger on one of our officers…”
 https://www.whitehouse.gov/videos/sec-noem-if-you-lay-a-finger-on-one-of-our-officers-you-will-feel-the-full-extent-of-the-law/
 
-Wikipedia — Sippenhaft (collective punishment in Nazi Germany)
+25) Wikipedia — Sippenhaft (collective punishment in Nazi Germany)
 https://en.wikipedia.org/wiki/Sippenhaft
 
-Wikipedia — Lidice massacre
+26) Wikipedia — Lidice massacre
 https://en.wikipedia.org/wiki/Lidice_massacre
+
+
+## See Also
+- [Part 1: Consolidate Power](/part1.md): Dismantle or co-opt institutions of accountability and information
+- [Part 2: Normalize Violence](/part2.md): Normalize violence by domestic paramilitary
+
