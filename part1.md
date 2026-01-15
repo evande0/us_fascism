@@ -1,4 +1,4 @@
-# PART 1 — EXECUTIVE POWER, COURTS, MEDIA, ACADEMIA
+# PART 1 — CONSOLIDATE POWER
 
 Dismantle or co-opt institutions of accountability, information, the judiciary, and enforcement 
 
