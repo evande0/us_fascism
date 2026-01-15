@@ -1,4 +1,3 @@
-# US 2025 vs Germany 1918-1945
 A comparison of events between the Trump Administration and 1918-1945 Germany
 
 - [Part 1: Consolidate Power](/part1.md): Dismantle or co-opt institutions of accountability and information
