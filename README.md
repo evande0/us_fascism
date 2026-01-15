@@ -1,9 +1,9 @@
-# US 2025 vs Germany 1918-1945
+# Overview
 A comparison of events between the Trump Administration and 1918-1945 Germany
 
 - [Part 1: Consolidate Power](/part1.md): Dismantle or co-opt institutions of accountability and information
 - [Part 2: Normalize Violence](/part2.md): Normalize violence by domestic paramilitary
-- [Part 3: Military Expansion](/part3.md): Consolidate control over the military and subvert international law
+- [Part 3: Deploy Military](/part3.md): Consolidate control over the military and subvert international law
 
 ## Caveat: This is a rough draft
 

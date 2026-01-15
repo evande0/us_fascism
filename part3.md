@@ -1,4 +1,4 @@
-# PART 3 - MILITARY EXPANSION
+# PART 3 - DEPLOY MILITARY
 
 Consolidate control over the military and push the boundaries of international law
 
