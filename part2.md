@@ -1,4 +1,4 @@
-# PART 2 — ICE DETENTION, IMMIGRATION ENFORCEMENT
+# PART 2 — NORMALIZE VIOLENCE
 
 Normalize violence by domestic paramilitary. Start by dehumanizing minority population, then by attacking their defenders.
 
